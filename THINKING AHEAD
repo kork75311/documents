@@ -1,0 +1,11 @@
+This is section is about looking ahead and understanding the needs to plan to break down the problem and add structure to the solution.
+
+-	I plan to use HTML5, JavaScript, PHP, for my project. With Javascript for the client-side and PHP for the server side, and possible some HTML / CSS for the web based interface.
+-	Most inputs for the system will be buttons in the application and text inputs. With the user primarily using a mouse and keyboard complete the tasks. Applications are prone to being accidently being closed by the user as a result the application should have an autosave or a javascript pop up asking the user to confirm there actions.
+-	The outputs for BoardingMate will be primary through a user interface and notifications.
+•	The user should have a tasks list notification reminding them to do things such as a register at house meeting, or when a pastoral concern is raised. 
+•	The menu of system can be resued
+•	the application can have one link that will ensure everything is cantered and when adjustments have to made it means that does not have to be made to multiple lists.
+•	The charts can be reused with slight adjustments to the title and where data is fetched from.
+•	Encapsulation can be used on the list to ensure its security.
+•	A class system can be reused to enter many indviduals into the system as they will have slight adjustments with students just being basic information and for staff there acess level.
