@@ -1,0 +1,26 @@
+There are a lot of possible functions that could be added to the database, to improve its functionality and usability but it’s important to understand what’s necessary and what’s not.
+
+Abstraction for BoardingMate:
+
+-	Removal all unnecessary sound effects and notifications that are used as indicators for the user.
+-	Remove images using icons instead
+-	Keep a simple 3 colour pallet with a traffic light system being used as a concern identifier. 
+-	Using a side menu as a container that contains all the functions a user will need.
+-	Have a log out button at the bottom of the screen
+-	Using simple shapes and graphs
+-	Cloud Processing
+-	Web based to reduce computer requirements to use it.
+-	Only computer compatible.
+There are a lot of possible functions that could be added to the database, to improve its functionality and usability but it’s important to understand what’s necessary and what’s not.
+
+Abstraction for BoardingMate:
+
+-	Removal all unnecessary sound effects and notifications that are used as indicators for the user.
+-	Remove images using icons instead
+-	Keep a simple 3 colour pallet with a traffic light system being used as a concern identifier. 
+-	Using a side menu as a container that contains all the functions a user will need.
+-	Have a log out button at the bottom of the screen
+-	Using simple shapes and graphs
+-	Cloud Processing
+-	Web based to reduce computer requirements to use it.
+-	Only computer compatible.
