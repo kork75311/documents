@@ -1,0 +1,10 @@
+Break Down Of The Problem:
+
+
+
+House Staff: Assign students to dorms, log medication taken by students, raise concerns and manage an inventory of supplies such as food. This will include an algorithm to predict when supplies will run out based on current usage rates. All staff will also be able to log notes about the house in an open text box format. This will all be shown in a clean user interface that can be referenced during house staff swaps. So, the next shift can quickly see everything that is going on in the house.
+
+Administrators: Will not be able to see any of this sensitive data instead only having the option to add new students and append records.
+
+SLT (Senior Leadership Team): Will be able to access everything and append any record.
+
